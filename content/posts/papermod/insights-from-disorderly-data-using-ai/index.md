@@ -1,5 +1,5 @@
 ---
-title: "Insights from disorderly data using AI"
+title: "Use LLMs to get insights from disorderly data"
 summary: This document publishes hard-earned best practices on how to use large language models (LLMs) to extract reliable insights even when you have poor metadata
 date: 2024-08-30
 series: ["PaperMod"]
