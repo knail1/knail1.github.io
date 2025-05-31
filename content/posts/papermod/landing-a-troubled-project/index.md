@@ -3,9 +3,9 @@ title: "Landing a troubled project"
 summary: Lessons learnt in how a highly visible project was rescued. 
 date: 2025-05-30
 series: ["PaperMod"]
-weight: 2
+weight: 1
 aliases: ["/landing-a-troubled-project"]
-tags: ["Data Driven", "Project Management", "Influencing", "Stakeholder Management]
+tags: ["Data Driven", "Project Management", "Influencing", "Stakeholder Management"]
 author: ["Omer Ansari"]
 ---
 
