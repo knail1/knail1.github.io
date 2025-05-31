@@ -40,7 +40,7 @@ This tactic also helped our team in another way.. All developers started to unde
 | ![regular](images/before-prs.png) | ![regular](images/after-prs.png) |
 | --------------------------------- | -------------------------------- |
 
-Our PR age dropped from 40 days to less than 1 week: which is what we wanted for our release strategy. As mentioned earlier, our CICD pipeline was on a bus schedule, shipping every 2 weeks. Now, we were finally starting to complete our committed points within the sprint, in time for the bus.
+Our PR age dropped from 40 days to less than 1 week: which is what we wanted for our release strategy. As mentioned earlier, our CICD pipeline was on a bus schedule, shipping every 2 weeks. Now, we were finally starting to complete our committed points within the sprint, in time for the bus!
 
 ![regular](images/pr-age.png)
 
