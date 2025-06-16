@@ -1,6 +1,6 @@
 ---
 title: "AI Dev Team Setup using Open Hands"
-date: 2024-12-17
+date: 2025-06-01
 description: "A comprehensive guide to setting up multiple OpenHands containers for autonomous development teams with GitFlow, security considerations, and deployment automation"
 tags: [openhands, docker, containers, ai-development, devops, gitflow]
 categories: [ai-engineering, devops]
