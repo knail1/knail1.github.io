@@ -21,11 +21,11 @@ The CIO leadership team had thought it through. Along with the need for a total 
 
 ![regular](images/sam-and-omer.png)
 
-Key takeaways:
+**Key takeaways:**
 * **TL;DR:** For big budget programs, a two-in-a-box technical and program leadership is essential. 
 * **Handling a large number of stakeholders:** There are typically a wide palette of players involved, from internal delivery teams, external delivery partners, internal customers, executive leaders, infosec and technical operations teams and so on. Interacting with them requires a tag team with complementary skills.
 * **Optimal team dynamics:** This is a team of equals. No egos. Further, chemistry is important. Competent senior leaders are typically able to figure out how to work effectively with any personality type, so typically this is not a major issue.
 * **Strong opinions, lightly held:** Strong opinions are necessary and both leaders must vigorously debate approaches, sometimes taking opposing sides just to test assumptions. In troubled projects where the clock is ticking, time is not on your side. You cannot afford to make wrong moves as there is no slack left in the timeline for course-correction.  
-* **Expanding the possibilities: **The project typically has a need to flex and pivot, perhaps multiple times. Assessing the situation, discussing options, and adapting is crucial. Opinions from the two leaders help stretch the universe of possibilities and ensure the most optimal path is selected.
+* **Expanding the possibilities:** The project typically has a need to flex and pivot, perhaps multiple times. Assessing the situation, discussing options, and adapting is crucial. Opinions from the two leaders help stretch the universe of possibilities and ensure the most optimal path is selected.
 * **You're not alone:** Having a partner who is equally in it to win it, gives you a feeling of strength. There is never a feeling that you're alone. Your partner is just a phone call away to talk about anything at all.
 
