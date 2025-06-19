@@ -59,6 +59,6 @@ This isn't about replacing engineers. It's about **evolving us into product engi
 
 Software engineers and product managers might merge into something new. Call them "product engineers." People who understand both the technical stack and the business problem. Who can guide AI agents toward solutions that actually ship and actually matter.
 
-*[Repo dropping soon with the full prototype and pipeline.]*
+**Check out the full prototype:** https://github.com/knail1/ai-agent-dagger-containers-demo
 
 **Which of these five roles feels most critical to you right now? Did I miss any? And what are you building to get better at it?**
