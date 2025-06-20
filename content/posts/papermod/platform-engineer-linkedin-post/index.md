@@ -9,15 +9,16 @@ tags: ["AI Agents", "Platform Engineering", "Software Engineering", "LinkedIn"]
 author: ["Omer Ansari"]
 ---
 
-**Target: LinkedIn**
+**Target: LinkedIn** 
+Posted: https://www.linkedin.com/pulse/why-your-software-engineering-agent-needs-you-think-like-omer-ansari-9vkwc/
 
 **Why Your Software Engineering Agent Needs You to Think Like a Platform Engineer**
 
-You're staring at a screen. Same as always. But something's different this time.
+She's staring at a screen. Same as always. But something's different this time.
 
-Your AI agent just deployed a three-tier application—frontend, API, database—while you grabbed coffee. It wrote the code. Ran the tests. Fixed the bugs. Shipped it.
+Her AI agent just deployed a three-tier application—frontend, API, database—while she grabbed coffee. It wrote the code. Ran the tests. Fixed the bugs. Shipped it.
 
-And you're wondering: What exactly is my job now?
+And you're wondering: What exactly is her job now?
 
 Here's what I'm learning: **Engineers aren't disappearing. We're evolving into something bigger.**
 
