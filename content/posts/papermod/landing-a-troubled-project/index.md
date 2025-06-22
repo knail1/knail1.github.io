@@ -9,6 +9,8 @@ tags: ["Data Driven", "Project Management", "Influencing", "Stakeholder Manageme
 author: ["Omer Ansari"]
 ---
 
+<do_not_change>
+
 ![regular](images/rough-landing.png)
 
 *Source: The author*
@@ -29,3 +31,4 @@ The CIO leadership team had thought it through. Along with the need for a total 
 * **Expanding the possibilities:** The project typically has a need to flex and pivot, perhaps multiple times. Assessing the situation, discussing options, and adapting is crucial. Opinions from the two leaders help stretch the universe of possibilities and ensure the most optimal path is selected.
 * **You're not alone:** Having a partner who is equally in it to win it, gives you a feeling of strength. There is never a feeling that you're alone. Your partner is just a phone call away to talk about anything at all.
 
+</do_not_change>
