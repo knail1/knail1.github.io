@@ -65,3 +65,46 @@ Take a simple example: if you're being "tired," the same task becomes sloppy and
 During our troubled project, I learned that I needed to be intentional about being curious rather than defensive, being positive rather than reactive, being expansive rather than constrained. When I operated from these states of being, I found that the actions I executed had a degree of quality, intensity, and efficacy that would otherwise not be there.
 In the heat of a crisis project, taking regular breaks from doing mode feels counterintuitive. But whether through planned short breaks, meditation, or prayer, these moments of intentional being weren't a luxury - they were what enabled the doing to be effective at all. By temporarily stepping away from the duties and dramas that bombard us, what's in the background becomes foreground, and what's waiting in the wings gets an entrance cue.
 
+## Forensic Analysis
+
+#### Take a moment to pinpoint the inflection point
+#### Project Assessment
+#### Team Assessment
+
+## The Stakeholder Influence Campaign
+#### Establishing direct connection with key stakeholders
+#### Get leaders and lead engineers together in 1/n series to review challenges
+### Finding and winning over the lynchpin individuals
+
+
+## Battle Tactics (Engineering perspective)
+#### Hands-on leadership
+#### How to quickly learn new technology as a leader
+#### When a statement doesn't fully make sense (or Be comfortable being dumb)
+#### Data "always" neutralizes emotional valence
+#### Burn down graphs
+#### Content preparation
+
+
+## Re-calibrating your own team's attitude
+#### Pace Setting with the team
+#### Delivery team (or provider)
+#### In it deep, always on, always available
+#### Singular accountability assigned leads to progress
+
+## Managing Upwards
+#### Senior leadership
+#### Your chain of command
+
+
+## Managing Yourself
+#### Temporary personal sacrifice: it's worth it
+#### The power of naps!
+#### Maintaining your edge
+
+
+## The crescendo and the ending
+#### The 8th Gate
+#### Investment in relationships pays off
+#### Hypercare experience
+#### Lessons learned
