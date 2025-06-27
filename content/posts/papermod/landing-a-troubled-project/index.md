@@ -68,27 +68,71 @@ In the heat of a crisis project, taking regular breaks from doing mode feels cou
 ## Forensic Analysis
 
 #### Take a moment to pinpoint the inflection point
+When there is a sudden change in a project, it is typically because of some key event. There is something a senior leader has seen or heard which changes their level of confidence in the project status to take drastic action. Many times, the new teams walk straight into a project and start reshaping it but don't take the time to assess exactly what "broke the camel's back". It doesn't take long, but can be very insightful so that the new teams can focus on the major pain point in the senior leader's mind.
+In our case, there was a video recording of a weekly project call where this transpired. We listened to it a few times and very closely and saw a few patterns on this call
+The project turned color from yellow to red, however there was no objective measure violation reported.
+There was no clear milestone identified with a specific date to show a path to green.
+There was one stakeholder, we will call him Bosch, who was the loudest in terms of communicating concerns.
+When the senior leader asked Bosch if they thought the project would finish on time, the leader said they did not think it was going to be extremely hard.
+The insights that we derived from this were:
+The project needed hard objective measures to track progress.
+Colors need to change when some pre-defined thresholds are crossed. This way the leadership team can see it coming from a distance and has time to react and/or help
+The project needed specific middle milestones with dates all the way to final cutover, with daily tracking on progress
+The loudest stakeholder "Bosch" was the leader of the pack. Their sentiment carried a lot of weight and other stakeholders swayed with his opinion. Critically, we needed to win back his confidence.
 #### Project Assessment
 #### Team Assessment
-
+I was dropped in to a brand new team. I had to quickly assess the skills of the leaders and the lead engineers and product managers and the main delivery partners.
+I found that these were solid individuals. Top class engineering managers, and very hard working and tuned in engineering team.
+Also the partner had deployed solid folks to complement us.
+The team had been doing good work, but just the volume of work was so enormously large, it was impossible to fully do QA on everything.
+It was also a key contributor of team burnout.
+The engine was solid, but the car's dashboard needed an uplift, and the drivers needed to get in the Le Mann's mindset. This was the last part of the marathon that needed to be sprinted to the end.
 ## The Stakeholder Influence Campaign
 #### Establishing direct connection with key stakeholders
 #### Get leaders and lead engineers together in 1/n series to review challenges
+We set up a tight 30-minute all-hands every week where we invited ALL the stakeholders and senior director level leaders. It was jointly presented by myself, Sam, and each of the appointed leads of the stakeholders, and very tightly choreographed down to the minute on who was going to talk and how long. The goal here was what I had heard while talking to the executives in the stakeholder groups - to be more inclusive and cross-share across all teams. We also wanted to give them a relief valve. We were asking for a lot from them in a short time, and tension, stress, and frustration was going to be there. We wanted them to share and express progress, but we didn't make it a free-flow open mic "complain fest" as that quickly goes out of control.
+For each stakeholder's slide, we had a section called "how are you feeling" and risks/issues/concerns where we allowed them to share their issues. This helped them put this data down in objective terms, allowed us to follow up with these issues, and also showed to all the rest of the leaders that we were listening to our customer base and adapting, thus fostering goodwill.
+Between these weekly sessions, my team ensured we enabled all the access required for the UAT testers ahead of time, asked them to confirm access, and told them explicit SLAs around defects so they would know what timeframe to expect and not start escalating arbitrarily. We made small but crucial tweaks to their test cycles by telling them to start testing on the data that was already built for the day, especially if it was early in the pipeline, instead of waiting for the 10-hour long batch job to complete. We gave them tools and monitoring on what was ready for them to test and review on a daily basis, and asked them to log their tests in a standard way so we could pull that data into our reporting.
+By exposing each stakeholder's work, we started seeing common patterns. When we reviewed these tests and saw patterns on how each stakeholder group was doing similar tests around data quality, my team built them standard automation and provided them the tests. We worked with a friendly stakeholder - Sales - and had them run the automation. When they were quickly able to close out a lot of the cases, we brought them into the next weekly call to share their findings and dramatic progress, essentially asking them to "sell" the automation to their other stakeholders.
+We also created easy and automated ways for them to file defects right in Slack instead of sending them directly to the ticketing system. The automated form ensured that bug hygiene was maintained and we collected all the required data we would need to later do analysis on them.
+These weekly sessions - where the series ended up being exactly 10 - helped us also do sneak peeks of new capabilities we were bringing to the stakeholders to help them make their testing experience better and provide richer information to them.
+
 ### Finding and winning over the lynchpin individuals
 
 
 ## Battle Tactics (Engineering perspective)
 #### Hands-on leadership
+Just having high-level "prepared" conversations doesn't cut it. If a leader only relies on the perception of others, and prepared content, they will only have a surface level idea of the issues. In technology, I have always found having a visceral idea of the problem or issue is crucial.
+Note that this requires a little more time investment than just conversations. Sometimes you need to corroborate to confirm.  For me, it required getting read-only access to the data warehouse systems, the data pipeline tools, and the code repositories. Specifically in this situation, I knew SQL so the warehouse part was not a problem, but I had never used the specific data pipeline tech that was being used, so I had to spend some energy learning that tool.
 #### How to quickly learn new technology as a leader
+You need to get into the hard data to viscerally grasp each issue that crops up. This requires you to be deeply technical, and put your fingers in the dirt.
+If you have become a technology leader, chances are the technology is a home grown system that your team developed, or it's a 3rd party vendor technology that your team is trying to enable for the company, or a combination of both.
+You need direct access to this technology as a user and as a developer of this technology that you're responsible for, no ifs and buts.
+Just like a head baker tastes her goods in the bakery, you need to do the same. This means you need access to these systems, and you need to spend just enough energy to learn them to be deadly, quickly. The cool thing about being a leader of this tech is that you can have dedicated sessions with the lead engineers who can walk you through the setup and the general understanding of the tech (it pays to have read the technical documents ahead of time). I typically record these sessions, just for myself, so I can go back and review and pause on the screens where I see them issue certain commands or click on buttons. I then try to do the same through my own access.
+Pro-tip: In tech delivery firms, chances are you have a global team. I typically reserve my deeper learning sessions with my team members based in the evening timezone, This meant setting adhoc calls with technically savvy individual contributor folks in the India timezone so they can walk you through the setup and then emulating the setup, and looking around the system to understand its edges and overall shape.  Evening times works better anyway, since you dont have peppered meetings and can do some deep work.
 #### When a statement doesn't fully make sense (or Be comfortable being dumb)
+Remember that when you're understanding technical concepts or issues, the people who are sharing those details are on a spectrum of communication skills. Some try to simplify the concepts before they share them, some stay at their level. Then you have the problem of English not being a native language for some of these individuals, which can make understanding a complex issue even harder.
+Here's what I do. I listen carefully to any issue or problem being surfaced. The moment I head a sentence uttered by the person which did not completely sink in, I interrupt them and stop, and get clarification. I shamelessly keep asking all the dumb questions until I understand it. I never move off of that key topic until I've understood it. This is important because the subsequent concepts build on this one, and if your understand is on a shaky foundation, you won't truly understand them either.
+With time and experience, you start caring less about the "perception" you're driving across the conversation and start focusing on more of the facts. This is now "your" team, and you have every right to be "comfortably dumb" :)
+Side-bar: At work. you can see these type of leaders. They are able to communicate level 1 of an issue but when asked for more details, their limitation of the full understanding of the issue and its impact becomes evident. In your troubled project, you can't afford to be running your ship with partial understanding of the issues; that is likely what got the project into its state in the first place.
+Many times this required me to talk to engineers several levels below me who were closer to the situation.
 #### Data "always" neutralizes emotional valence
+I have been dropped into many complex and troublesome situations in the past, from a broken enterprise delivery pipeline in a software organization, to solving Obama's healthcare.gov technology issues. In all scenarios, since the project has gone south, emotions are typically running high. You get a sense that teams are distrusting of other teams. The project delivery team is chagrined with the customers who are changing or adding to requirements, while the customers are not happy with the progress or the quality of what has been delivered thus far.
+
+As a leader you need to set a positive tone immediately.
+
 #### Burn down graphs
 #### Content preparation
 
 
-## Re-calibrating your own team's attitude
+## Re-calibrating the team
+The team working on the project was exhausted, emotionally and physically running for so many quarters. With the negative perception, they were on the backfoot with inspiration and hope. Recalibration was needed on multiple levels: (a) bringing positivity and the "we will succeed" mindset into their thinking and approach, (b) leading by example by asking "what else can I do" to make this faster and better, and (c) recalibrating the teams to focus on critical items first.
 #### Pace Setting with the team
 #### Delivery team (or provider)
+#### So many issues, enter FEMA ops
+We started seeing a lot of issues in the UAT environments, where new code was entering at the same time teams were testing, and that was causing issues. Further, as some of the data tables were getting fully completed, they were being "turned to production," which meant by all means the stakeholders could start using that data for their production use cases. I also had the problem that my operations team so far hadn't gotten exposure to this new buildout.
+So I set up a temporary operations team called FEMA Ops, playing with the emergency management agency term to also signal that this was a short-term team focused on bringing stability. We started reporting issues and fixes, treating issues in UAT and reporting them as if they were production issues with triage, updates, resolution, and mini RCAs. This stabilized the environment to give more time for our stakeholders to test and built confidence that things were getting better.
+
 #### In it deep, always on, always available
 #### Singular accountability assigned leads to progress
 
@@ -99,6 +143,8 @@ In the heat of a crisis project, taking regular breaks from doing mode feels cou
 
 ## Managing Yourself
 #### Temporary personal sacrifice: it's worth it
+There is no doubt that you'll be pulling in longer nights and weekends. But this is something you must commit to doing. In my case, I told my wife that I would be totally consumed by this project until its Go-Live date. She had been on these type of rodeos with me before, and knew what this meant. This would entail her to bear the brunt of the household work, the kid chauffeuring , the weekend Costco runs etc. I am truly grateful for a supportive spouse who didn't bat an eye and went all in.
+My experience in turning around all projects is that you are rewarded by your leadership in the end. That reward is completely your spouse's right.
 #### The power of naps!
 #### Maintaining your edge
 
