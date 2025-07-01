@@ -76,20 +76,35 @@ Personally, I have identified this happens in three specific circumstances.
 **Fear of the unknown.** There are some blanks in your mental model of the problem.  When you know something, the fear goes away. In large projects there are always so many moving parts that as a leader you can indeed find yourself wondering if there is something you have left out. This is actually a good feeling to have, even if it feels uncomfortable. This motivates you to learn more. In this case, what I've seen is helpful is to talk through it with an LLM as my rubber ducky. In software engineering, "rubber duck debugging" is a method where you explain your code line-by-line to an inanimate rubber duck to find bugs - the act of articulation often reveals the problem. Typically in these situations you'll find that as you articulate the issue verbally or in written form you will identify the gaps in your understanding where your brain was attempting to smudge across (and incidentally which was giving you the bad feeling). These gaps will help you ask the right questions, or get GPT/Claude to help you figure out the right questions to ask, which then you get answers from in the org.
 My experience is that the BEST way to get out of the overwhelm state and into the exhilarated one is to go deep into the details. Understand and really grasp the details of the problem, or maybe even one part of the problem. The fear of the unknown starts to move away and you will start seeing opportunities or solutions. If the problem requires special SME that you don't have, you will be able to find the right talent in your team who does have it. You do NOT delegate this problem. Not at all. Instead you take an hour and call this SME to get to the bottom of this issue and understand it. "Just pick up the phone," and you will see that the SME will already have ideas to solve it, and with your vantage point (i.e. you can see things the SME can't) you may be able to provide other options to explore. In all cases you are moving out of the myopic mental state, into an expansive mental state. I have frequently felt hits of endorphin and mild euphoria as I'm moving across these states into a better place.
 ## Forensic Analysis
+Before you jump in and start executing, it's always a good idea to step back to a hill close by and survey the battle grounds. This gives you a good idea of how to formulate strategies and perhaps avoid making similar mistakes.
 
 #### Take a moment to pinpoint the inflection point
+Sometimes a project goes south slowly like a frog in water which is slowly boiling. Then there is typically an event, an inflection point, which shifts the sentiment of senior leadership and gets them to take action. In my mind, it's an important piece of data for you to gain, since it helps you know exactly where to invest your energy when you get going. The reason is if you are able to turn around this specific cause in the beginning, you start getting quick wins under your belt, and your leadership team knows they bet on the right horse. You can get close to finding out what this inflection point is by asking around folks specific questions, but also check out prior recordings of major meetings where the leadership participated. This is how I found out about this project's inflection point.
 When there is a sudden change in a project, it is typically because of some key event. There is something a senior leader has seen or heard which changes their level of confidence in the project status to take drastic action. Many times, the new teams walk straight into a project and start reshaping it but don't take the time to assess exactly what "broke the camel's back". It doesn't take long, but can be very insightful so that the new teams can focus on the major pain point in the senior leader's mind.
-In our case, there was a video recording of a weekly project call where this transpired. We listened to it a few times and very closely and saw a few patterns on this call
+In our case, there was a video recording of a weekly project call where this transpired. We listened to it a few times and very closely and saw a few patterns on this call:
+
 The project turned color from yellow to red, however there was no objective measure violation reported.
 There was no clear milestone identified with a specific date to show a path to green.
 There was one stakeholder, we will call him Bosch, who was the loudest in terms of communicating concerns.
 When the senior leader asked Bosch if they thought the project would finish on time, the leader said they did not think it was going to be extremely hard.
-The insights that we derived from this were:
-The project needed hard objective measures to track progress.
-Colors need to change when some pre-defined thresholds are crossed. This way the leadership team can see it coming from a distance and has time to react and/or help
-The project needed specific middle milestones with dates all the way to final cutover, with daily tracking on progress
-The loudest stakeholder "Bosch" was the leader of the pack. Their sentiment carried a lot of weight and other stakeholders swayed with his opinion. Critically, we needed to win back his confidence.
+
+The insights that we derived from this were clear: the project needed hard objective measures to track progress, and colors needed to change when some pre-defined thresholds were crossed so the leadership team could see it coming from a distance and have time to react and help. The project also needed specific middle milestones with dates all the way to final cutover, with daily tracking on progress. Most critically, the loudest stakeholder "Bosch" was the leader of the pack - his sentiment carried a lot of weight and other stakeholders swayed with his opinion, which meant we needed to win back his confidence.
+
 #### Project Assessment
+### Project Assessment
+
+How much time you have dictates your strategy: 2 quarters or 2 months?
+
+In troubled projects you seldom have a year or more than 2 quarters as it's already too late and the project is red. You are the ER doctor going in trying to save the patient's life.
+
+In our case we had about 1 quarter left.
+
+Sam and I spent a bunch of time together originally just understanding how the project got here, where things started to go awry, and our key strategy on this project. The war was going to be fought on three fronts.
+
+First, we needed to turn the executive perception 180 degrees to drive confidence in the new approach. Our strategy was to turn the progress measure to data, which meant numbers and dates. This gave meaning to the colors, defining what red/yellow/green meant. The prior team was not quantifying what a yellow was, and it drove a different emotion in each executive based on their own meaning of the color.
+
+Second, we had to change the stakeholder perception. This meant we needed to listen, truly listen, to the stakeholders. Give them the mic. Bring them together to talk to each other - don't be afraid of them "ganging up", make it a collaborative environment. This was an ignored lot, with short term and long term woes with the team. We needed to give them hope for not only short term improvements (like the finance team's lack of confidence in numbers), but also long term hope that more customer-centric leadership was in charge.
+
 #### Team Assessment
 I was dropped in to a brand new team. I had to quickly assess the skills of the leaders and the lead engineers and product managers and the main delivery partners.
 I found that these were solid individuals. Top class engineering managers, and very hard working and tuned in engineering team.
