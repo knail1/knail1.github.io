@@ -144,12 +144,24 @@ With time and experience, you start caring less about the "perception" you're dr
 Side-bar: At work. you can see these type of leaders. They are able to communicate level 1 of an issue but when asked for more details, their limitation of the full understanding of the issue and its impact becomes evident. In your troubled project, you can't afford to be running your ship with partial understanding of the issues; that is likely what got the project into its state in the first place.
 Many times this required me to talk to engineers several levels below me who were closer to the situation.
 #### Data "always" neutralizes emotional valence
-I have been dropped into many complex and troublesome situations in the past, from a broken enterprise delivery pipeline in a software organization, to solving Obama's healthcare.gov technology issues. In all scenarios, since the project has gone south, emotions are typically running high. You get a sense that teams are distrusting of other teams. The project delivery team is chagrined with the customers who are changing or adding to requirements, while the customers are not happy with the progress or the quality of what has been delivered thus far.
+I have been dropped into many complex and troublesome situations in the past, from a broken enterprise delivery pipeline in a software organization, to solving Obama's healthcare.gov technology issues. In all scenarios, since the project has gone south, emotions are typically running high. You get a sense that teams are distrusting of other teams. The project delivery team is chagrined with the customers who are changing or adding to requirements, while the customers are not happy with the progress or the quality of what has been delivered thus far. As a leader you need to set a positive tone immediately.
+In all situations, I tend to rely on data to set the tone. Showing data takes the conversation from subjective to objective, it exposes the actual problems, which may not look pretty but you gain trust back by being honest, you also have clear targets to hit which makes measuring success easier. When people are arguing about feelings and perceptions, there's no winning - everyone retreats to their corners and defends their position. But when you put real numbers on the table, suddenly everyone is looking at the same reality. The data doesn't care about politics or personalities or who's been on the project longer. It just is what it is.
 
-As a leader you need to set a positive tone immediately.
+In our cases, our weekly steering committee calls became a clinical readout on the number of tests completed, passed, pipelines developed, and challenges we were experiencing.
+
+![regular](images/project-dashboard.png)
+
+Ofcourse, each test failure could bring its completely unique challenges to solve, and those were just on Sam and I to solve with the teams, in hand-to-hand contact.
+
 
 #### Burn down graphs
-#### Content preparation
+
+When the clock is winding down, honing in on a critical metric and tracking its burn down before the deadline are helpful. These aren't your typical agile story point burn downs - they're laser-focused on the one metric that matters most for project success. Maybe it's test cases completed, maybe it's data migration percentage, maybe it's defects resolved. Whatever it is, you track it relentlessly and make it visible to everyone.
+In our case, when we implemented test automations and our stakeholders used them, there was an immediate acceleration of the passed test case burn down. This got us good will quickly with our senior leaders who could see that the trend was now looking positive. The graph became a daily conversation starter, a source of motivation for the team, and proof to skeptics that our new approach was actually working.
+
+![regular](images/burndown-chart.png)
+
+*Note that the graph was not really linear. The easier tests were front loaded by all our stakeholders, and things got more complex later.*
 
 
 ## Re-calibrating the team
