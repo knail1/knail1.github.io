@@ -9,6 +9,9 @@ tags: ["Data Driven", "Project Management", "Influencing", "Stakeholder Manageme
 author: ["Omer Ansari"]
 ---
 
+This article was posted on linkedIn 7/6/2025. [Here's](https://www.linkedin.com/posts/omer-ansari-30a3762_this-project-is-in-trouble-thats-what-activity-7347494957810622465-JsaG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABo5ToB34RDUl_8BV7KU-aqw0X80gPMXSM) the link to the post. 
+
+
 ![regular](images/rough-landing.png)
 
 *Source: The author*
@@ -350,4 +353,13 @@ Over the next year, this platform was going to provide tremendous uplift to our 
 
 But more than all that, what I take away from the experience were the relationships that were forged in fire. There were amazing people I worked with that I will never forget for the rest of my life. When you go through something like this together, when you push beyond what you thought was possible and refuse to give up on each other, it creates bonds that last forever.
 
+-- Epilogue:
+
+I recognized them on LI but putting them here. These are the heros and heroines that made it possible:
+
+I dedicate this article to the amazing team that made the impossible, possible. Thank you Ankur Kapoor, Bharti Vatwani, Smitha Venkat, Tushar Kakkar, VVB Ravi, Hardik Kaneria, Mohammed Umer Peddadevara, Lakshmi N Rao Karlapalem, Prathima Boini, Krishnan Nagarajan, Sridhanya H., Venktesh Maudgalya, Deepak Mooga, Gangadhar Bathini, Punam Saha, Sanjeeban Mohanty, Pradeep Gorai , Vinay Lekharaju, Karishma Gupta, Ashley Mettert, Sunny Malik, SUPURNA DAS, Ramya Kuraganti, Aradhana Srivastava, Venkata Durga Rao Reddy, Naveen KR, Venusri Kancheti, Bhavya Mehta.
+
+Thanks also to the stakeholders and partners who helped us land the ship. Maithili, Cynthia Roy, Claire Philip Thomas, Vijaya Tirumalareddy, Jonathan R. Norton, MBA, Hamid Herzai, Srini Vemuru, Sung Kong, Shameem Syed, Prem, Jayesh Parmar, Ajau G Vamshi Cheedella, Gaurav Srivastava, Arshad Mohammad, Chandrasekhar Bellamkonda , Murali Kallem , Venkat Sadineni , Subbarao Talachiru , Sujit Ravuri , Pandurangarao Rallapalli, Santhosh Akula, 
+
+In the end, a special nod to my leaders Eshwari Chidambaram, and Joseph Lawless who supported Sam and I through every twist and turn, and finally to Andy White and Juan Perez, who believed in us and entrusted us to get this done.
 
