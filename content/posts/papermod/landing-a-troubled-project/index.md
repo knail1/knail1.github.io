@@ -18,16 +18,17 @@ I still remember how it started. I was in Austin on a Saturday, enjoying the Dat
 
 ## The Framework: Two's a Company
 The CIO leadership team had thought it through. Along with the need for a total revamp for the product line, they also noticed material weakness in the technical program management. So they also assigned a senior Technical Program Manager, Sam Wingo, to partner with me. This was a brilliant call. Along with ensuring the technical aspects of the project were on sound footing, the program also desperately needed structure and clarity on measurable progress.
+
+
+### Setting up the partnership
+
 For big budget programs, a two-in-a-box technical and program leadership is essential. The reality is that there's typically a wide palette of players involved in these complex initiatives - internal delivery teams, external delivery partners, internal customers, executive leaders, infosec and technical operations teams, and so on. Interacting with all of them effectively requires a tag team with complementary skills.
-The optimal team dynamic here is a partnership of equals with no egos. Chemistry matters, though competent senior leaders are typically able to figure out how to work effectively with any personality type, so this usually isn't a major roadblock. What's crucial is that both leaders maintain strong opinions, lightly held. They must vigorously debate approaches, sometimes taking opposing sides just to test assumptions. In troubled projects where the clock is ticking, time is not on your side. You cannot afford to make wrong moves because there's no slack left in the timeline for course-correction. This is why stress testing solutions and approaches to problems prior to putting them in play is essential.
+What's crucial is that both leaders maintain strong opinions, lightly held. They must vigorously debate approaches, sometimes taking opposing sides just to test assumptions. In troubled projects where the clock is ticking, time is not on your side. You cannot afford to make wrong moves because there's no slack left in the timeline for course-correction. This is why stress testing solutions and approaches to problems prior to putting them in play is essential.
 This dual leadership approach excels at expanding the possibilities. These projects typically need to flex and pivot, perhaps multiple times. Assessing the situation, discussing options, and adapting becomes crucial. Having opinions from two seasoned leaders helps stretch the universe of possibilities and ensures the most optimal path is selected.
 Perhaps most importantly, you're not alone. Having a partner who is equally committed to winning gives you a feeling of strength. There's never a moment where you feel isolated - your partner is just a phone call away to talk through anything at all.
 Given the late stage this project was in, it needed exactly this combination. While a two-in-a-box approach at project inception might easily pair a product leader with an engineering leader, this troubled project required the TPM/Tech combo to provide the structural rigor that had been missing.
 
-
 ![regular](images/sam-and-i-2.png)
-
-### Setting up the partnership
 
 This was a team of equals with no egos. Chemistry mattered, though competent senior leaders are typically able to figure out how to work effectively with any personality type, so this usually isn't a major roadblock.
 We both knew there wasn't much time and every hour counted. For that purpose, we were always talking or texting adhoc, discussing issues as they came up. We would spend time preparing for major meetings, or discuss approaches to talk to certain stakeholder personalities, or sometimes just to vent to each other!
@@ -35,7 +36,7 @@ Most importantly, we both colored outside our lines. In times of war, there are 
 
 ### My partner
 Since I was the engineering leader responsible for the project, I will talk about my Program Management partner. This should help you identify the skills and personality traits required in a TPM for a major project going sideways. 
-Sam brought something our troubled project desperately needed: the Winston Wolf mentality.
+Sam brought something our troubled project desperately needed: the Winston Wolf mentality (A nod to Pulp Fiction)
 His approach was fundamentally different from traditional program management. Where others might get paralyzed by the complexity, Sam would calmly assess the facts: What's the real timeline? What are the actual blockers versus perceived ones? Who has authority and who doesn't? He had this ability to cut through the noise and identify what really mattered in a matter of hours, not days or weeks. One thing I learnt from him is, just pick up the phone and talk to the person.
 What made him effective in this crisis was his work ethic and calm under pressure. I remember collaborating with him at three in the morning during that final push. He had this ability to stay focused and rally the team around a clear goal, maintaining that singular belief in winning even when things looked impossible.
 Sam was the perfect complement to my technical leadership because he brought the structural rigor that our project had been missing. While I focused on the engineering challenges, he ensured we had a plan that people actually followed - and the authority to make them follow it.
@@ -292,7 +293,9 @@ Whether it's prayer, meditation, or just stepping outside for five minutes, thes
 
 ## The crescendo and the ending
 Things start getting intense and squirrely in the final weeks. The pressure ratchets up exponentially as the deadline approaches, and a lot of nerves start getting tested. Issues that seemed manageable suddenly feel catastrophic. Stakeholders who were patient for months become impatient overnight. Small problems get magnified, and everyone's tolerance for ambiguity evaporates. This is where you have to stay true to the fundamental belief that you will succeed, even when everything around you feels like it's falling apart.
-This is where having Sam as a partner was invaluable. We created an echo chamber of "success" amongst ourselves and would find ways to reinforce that mindset when things got darkest. We became each other's source of strength when the external environment was trying to drain it away.
+
+This is where having Sam as a partner was invaluable. As mentioned earlier, we created an echo chamber of "success" amongst ourselves and would find ways to reinforce that mindset when things got darkest. We became each other's source of strength when the external environment was trying to drain it away.
+
 We had a little joke amongst us when a new bombshell dropped on us. We used to message each other "Tis but a scratch!" from the Monty Python show. You know the scene - the Black Knight gets his arm chopped off in battle and declares "It's just a flesh wound!" Then he loses his other arm and maintains it's "just a scratch!" Even when he's lost both legs and is just a torso on the ground, he's still challenging his opponent, insisting he's fine and ready to fight on.
 
 ![regular](images/tis-but-a-scratch.png)
@@ -337,4 +340,4 @@ There was something profound in that moment of silence before he spoke. All thos
 
 Over the next year, this platform was going to provide tremendous uplift to our business, and the new innovations it brought took the company to the next level in terms of speed and capabilities. 
 
-But more than all that, what I take away from the experience were the relationships that were forged in fire. There were amazing people I worked with that I will never forget for the rest of my life. Ankur, Smitha, Bharti, and their spectacular team members, and most of all Sam. When you go through something like this together, when you push beyond what you thought was possible and refuse to give up on each other, it creates bonds that last forever.
+But more than all that, what I take away from the experience were the relationships that were forged in fire. There were amazing people I worked with that I will never forget for the rest of my life. Ankur, Smitha, Bharti, and their spectacular team members, and most of all Sam. When you go through something like this together, when you push beyond what you thought was possible and refuse to give up on each other, it creates bonds that last forever.k
